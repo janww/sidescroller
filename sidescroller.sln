@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sidescroller", "sidescroller\sidescroller.vcxproj", "{FE06A8DB-20ED-4626-8EAA-F005BAD3FC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE06A8DB-20ED-4626-8EAA-F005BAD3FC86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FE06A8DB-20ED-4626-8EAA-F005BAD3FC86}.Debug|Win32.Build.0 = Debug|Win32
+		{FE06A8DB-20ED-4626-8EAA-F005BAD3FC86}.Release|Win32.ActiveCfg = Release|Win32
+		{FE06A8DB-20ED-4626-8EAA-F005BAD3FC86}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
